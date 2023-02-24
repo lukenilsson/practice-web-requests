@@ -1,0 +1,7 @@
+# GET http://google.com
+
+# GET http://homeopet.com
+
+# HEAD  http://homeopet.com
+
+TRACE  http://google.com
